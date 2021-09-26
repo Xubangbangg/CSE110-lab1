@@ -1,9 +1,9 @@
-## Introduction
+# Introduction
 
-# Experience with programming
+## Experience with programming
 **Major**: Math-cs\
 **Years of programming**: 1.5\
-Learned from previous cse courses:\
+Learned from previous cse courses:
 > start early, start often
 
 Programming language I learned:
@@ -16,13 +16,13 @@ Git commands to add git:
 git add
 ```
 
-Following is my [GitHub Pages](https://github.com/Xubangbangg).
+Following is my [GitHub Pages](https://github.com/Xubangbangg).\
 [Readme of part1 of this lab](./README.md).
 
-# intro to myself
+## Intro to myself
 My hobby: 
 - Workout
-- guitar
+- Guitar
 - Snowboarding
 
 This is image of snowboarding：
