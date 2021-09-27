@@ -25,10 +25,6 @@ My hobby:
 - Guitar
 - Snowboarding
 
-[Go to somewhere](#Introduction)
-
-
-
 This is image of snowboarding：
 ![This is image of snowboarding](./snowboard.jpg)
 
@@ -36,3 +32,5 @@ To-do list today:
 - [x] finish cse110 lab1
 - [ ] workout
 - [ ] math170a quiz
+
+[Go to the top of this page](#Introduction)
